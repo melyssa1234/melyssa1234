@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfi
 
-<!--
-**melyssa1234/melyssa1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Melyssa Santana 
 
-Here are some ideas to get you started:
+- Estou estudando no alura 
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-### Você pode entrar em contato comigo 📬
+
+00001138618779sp@al.educacao.sp.gov.br
+
+melxxh_melsa
+
+
+![](https://i.pinimg.com/originals/5e/1e/fa/5e1efadc699afe70ae149407ddf0515b.gif)
